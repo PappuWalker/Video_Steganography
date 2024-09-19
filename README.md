@@ -66,6 +66,9 @@ The decoder extracts the least significant bits from the video frames and recons
 - Implement a graphical user interface
 - Support for other video formats
 - Enhance security with encryption
+- audio steganography
+- image steganography
+- video to image steganography
 
 ## License
 
